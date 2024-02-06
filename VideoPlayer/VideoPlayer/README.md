@@ -40,6 +40,7 @@ v1.0.0
 
 5.Windows Vista
 
+![Weixin Screenshot_20240206173947](https://github.com/HomoiNuo/PythonCode/assets/158718078/dba45c43-e4c6-497e-8f6c-2699b7512b20)
 
 上图为Windows Vista虚拟机测试
 
@@ -47,6 +48,7 @@ v1.0.0
 
 4.Windows 2000
 
+![Weixin Screenshot_20240206174304](https://github.com/HomoiNuo/PythonCode/assets/158718078/6a1dcdef-e53c-40ea-9f2a-ba9121464596)
 
 上图为Windows 2000虚拟机测试
 
