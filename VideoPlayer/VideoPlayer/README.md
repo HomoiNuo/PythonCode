@@ -8,7 +8,7 @@ v1.0.0
 
 1.Windows 10/windows 11
 
-![Weixin Screenshot_20240206165006](https://github.com/HomoiNuo/CPPCode/assets/158718078/26b46c4a-fcca-4cfa-904c-3640b5ced8da)
+![Weixin Screenshot_20240206180207](https://github.com/HomoiNuo/PythonCode/assets/158718078/1971fa0a-6354-407a-ad31-c82031ecf7cb)
 
 上图为Windows 10虚拟机测试
 
