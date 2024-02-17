@@ -40,6 +40,7 @@ v1.0.0
 
 5.Windows Vista
 
+![Weixin Screenshot_20240206173947](https://github.com/HomoiNuo/PythonCode/assets/158718078/e82fcd4a-f93c-4f26-be7d-7d34f50ef8ce)
 
 上图为Windows Vista虚拟机测试
 
