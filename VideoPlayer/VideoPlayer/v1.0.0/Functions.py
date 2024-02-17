@@ -7,7 +7,7 @@ def ispath(Path:str) -> bool:
     except FileNotFoundError:
         print("FileInvalidError:文件路径无效")
         return False
-    
+
 if __name__ == "__main__":
     ispath("C:\\Users\\28363\\Downloads\\666.mp4")
     a = input(":")
